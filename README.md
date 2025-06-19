@@ -15,9 +15,8 @@ Built with 💙 in HTML, CSS, and JS using Cursor and enhanced with:
 
 ## 🌐 Live Website
 
-> [👉 Click to Visit Live Demo](https://frontend-battle-sacred.netlify.app)
+> [👉 Click to Visit Live Demo](https://gleaming-torte-f7cbe1.netlify.app/)
 
-_(Replace with your actual Netlify link after deployment)_
 
 ---
 
