@@ -20,12 +20,7 @@ Built with 💙 in HTML, CSS, and JS using Cursor and enhanced with:
 
 ---
 
-## 📸 Preview
 
-![Hero Preview](./assets/stats.png)  
-_Animated gradient, scroll reveals, testimonials carousel, and more..._
-
----
 
 ## 🚀 Features
 
